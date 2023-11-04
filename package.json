@@ -84,9 +84,6 @@
   "dependencies": {
     "prop-types": "^15.6.0"
   },
-  "peerDependencies": {
-    "react": ">= 0.14.0 < 18.2.0-0"
-  },
   "config": {
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"
